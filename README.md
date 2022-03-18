@@ -23,5 +23,5 @@ En este proyecto se utilizaron las siguientes tecnologías:
 ## Documentación
 Puede obtener más información en la documentación de Swagger: 
 ```bash
-http://localhost:8089/api/beitech/swagger-ui.html#
+http://localhost:8089/api/sga/documentation.html#
 ```
